@@ -1,0 +1,5 @@
+Lo primero que tenemos que hacer es instalarlo, para lo cual trae una instalación gráfica guiada en la que solo tenemos que aceptar el consentimiento y siguiente.
+Si lo dejamos por defecto nos vamos a la carpeta opt -> intel -> vtune_profiler -> bin64 y desde ahí podemos lanzarlo o añadir el archivo .desktop a ~/.local/share/applications para que nos salga en los menus de aplicaciones.
+Lo lanzamos como root. 
+Creamos un proyecto nuevo y añadimos el programa que queremos analizar, para ello tenemos que haberlo compilado con la opcion de compilacion -g de depuración.
+Podemos ver un sumario del análisis además de ver las funciones detalladamente.
