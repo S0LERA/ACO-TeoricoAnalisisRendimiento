@@ -9,3 +9,6 @@ Repositorio para el trabajo teórico de Computadores avanzados relacionado con e
 ### Versión 0.2
  - Archivo guía creado.
  - Añadidos archivos compilados de mandelbrot para analizarlos con el VTune.
+
+### Versión 0.3
+ - Primeras ideas sobre VTune.
