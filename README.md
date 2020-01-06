@@ -12,3 +12,9 @@ Repositorio para el trabajo teórico de Computadores avanzados relacionado con e
 
 ### Versión 0.3
  - Primeras ideas sobre VTune.
+
+### Versión 0.4
+ - Empezado documento con las explicaciones.
+   - Instalación de VTune en Linux.
+   - Creación de un proyecto.
+   - Explicación del caso de uso Mandelbrot.
