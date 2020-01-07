@@ -18,3 +18,8 @@ Repositorio para el trabajo teórico de Computadores avanzados relacionado con e
    - Instalación de VTune en Linux.
    - Creación de un proyecto.
    - Explicación del caso de uso Mandelbrot.
+
+### Versión 0.5
+ - Añadidos archivos de renderizado distribuido MPI.
+ - Actualizada documentación.
+   - Explicación, análisis y mejora del renderizado distribuido.
