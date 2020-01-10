@@ -23,3 +23,8 @@ Repositorio para el trabajo teórico de Computadores avanzados relacionado con e
  - Añadidos archivos de renderizado distribuido MPI.
  - Actualizada documentación.
    - Explicación, análisis y mejora del renderizado distribuido.
+
+### Versión 1.0
+ - Trabajo completo.
+   - Añadido el análisis sobre OpenMP - Mandelbrot.
+   - Añadida Conclusión.
