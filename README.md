@@ -1,6 +1,9 @@
 # ACO-TeoricoAnalisisRendimiento
 Repositorio para el trabajo teórico de Computadores avanzados relacionado con el estudio de herramientas para el análisis de rendimiento de programación paralela.
 
+## Nota
+Para una mejor visualización del trabajo, se recomienda descargar el fichero pdf en lugar de verlo en línea.
+
 ## Versiones
 ### Versión 0.1
  - Esqueleto del repositorio creado.
